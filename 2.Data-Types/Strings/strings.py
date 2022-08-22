@@ -7,7 +7,7 @@ favourite_quote = '"If you talk to a man in a language he understands, that goes
 print(favourite_quote)
 
 '''Double quotation
-   - Allows you to use single quotes inside a string
+   - Allows you to use single quotes inside a string or text
 '''
-favourite_novel = "Edward Snowden's, Permanent Record\n"
+favourite_novel = "Edward Snowden's: Permanent Record\n"
 print(favourite_novel)

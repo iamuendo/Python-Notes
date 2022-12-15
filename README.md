@@ -34,8 +34,8 @@ Python is a computer programming language often used to build websites and softw
 <h2 id="building-blocks">Building Blocks of Python</h2>
 
 - [Variables & Identifiers](https://github.com/iamuendo/Python-Notes/tree/main/1.Variables-and-identifiers)
-- [Data Types](https://linktodocumentation)
-- [Data Structures](https://linktodocumentation)
+- [Data Types](https://github.com/iamuendo/Python-Notes/tree/main/2.Data-Types)
+- [Data Structures](https://github.com/iamuendo/Python-Notes/tree/main/3.Data-Structures)
 - [Classes, Objects & Methods](https://linktodocumentation)
 
 <h2 id="characteristics">Characteristics of Python</h2>

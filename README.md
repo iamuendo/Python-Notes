@@ -18,6 +18,13 @@ Python is a computer programming language often used to build websites and softw
 
 <h3 id="why-python">Why you should learn Python?</h3>
 
+- Python is open source hence it has a large community of developers & a vast number of libraries.
+- Python supports a variety of programming paradigms.
+- Python has become an industry standard.
+- Python has a syntax that is easy to grasp.
+
+
+
 <h3 id="setup">How to setup Python on your Computer</h3>
 
 - On Windows
@@ -26,9 +33,14 @@ Python is a computer programming language often used to build websites and softw
 
 <h2 id="building-blocks">Building Blocks of Python</h2>
 
-- [Variables & Identifiers](https://linktodocumentation)
+- [Variables & Identifiers](https://github.com/iamuendo/Python-Notes/tree/main/1.Variables-and-identifiers)
 - [Data Types](https://linktodocumentation)
 - [Data Structures](https://linktodocumentation)
 - [Classes, Objects & Methods](https://linktodocumentation)
 
 <h2 id="characteristics">Characteristics of Python</h2>
+
+#### 1. It is a dynamically typed language
+In python, the variable type / data type is expressed at run time hence you don't have to specify the type of variable.
+
+#### 2. It is portable

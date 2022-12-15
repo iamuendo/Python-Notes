@@ -1,6 +1,6 @@
 # VARIABLES & IDENTIFIERS
 ## Variables 
-Variables are the storage spaces to store texts or numbers. 
+Variables are the storage spaces that store texts or numbers. 
 
 In python you don’t need to assign data types to a variable. 
 

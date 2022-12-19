@@ -1,4 +1,4 @@
-name = "isaac muendo"
+name = input("Name: ")
 message = "Hello, my name is "
 
 # Using the title() method: Titlecase

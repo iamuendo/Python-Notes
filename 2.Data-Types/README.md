@@ -7,5 +7,5 @@ Python dynamically assign data types to its variable on the basis of values that
 - **Integer (int)** types - for storage of integer values.
 - **Floating (float)** point types - for storage of decimal numbers
 - **String (str)** type used to store strings in memory.
-
+- **None** a special type used to represent the absence of something.
 **NOTE: PYTHON DOES NOT SUPPORT CHARACTER TYPES (CHAR) BUT MOST PROGRAMMING LANGUAGES DO e.g Java**

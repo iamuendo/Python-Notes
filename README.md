@@ -43,7 +43,11 @@ Like C and C++
 #### 5. It is easy to debug
 Provides specific information for tracing errors in a program.
 
+<h3 id="setup">How to setup Python on your Computer</h3>
 
+- On Windows
+- On Mac
+- On Linux
 
 <h3 id="building-blocks">Building Blocks of Python</h3>
 
@@ -51,9 +55,3 @@ Provides specific information for tracing errors in a program.
 - [Data Types](https://github.com/iamuendo/Python-Notes/tree/main/2.Data-Types)
 - [Data Structures](https://github.com/iamuendo/Python-Notes/tree/main/3.Data-Structures)
 - [Classes, Objects & Methods](https://github.com/iamuendo/Python-Notes/tree/main/4.Classes-Objects-Methods)
-
-<h3 id="setup">How to setup Python on your Computer</h3>
-
-- On Windows
-- On Mac
-- On Linux

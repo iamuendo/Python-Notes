@@ -5,6 +5,9 @@
     - [Characteristics of Python](#characteristics)
     - [How to setup Python on your computer](#setup)
     - [Building Blocks of Python](#building-blocks)
+    - [Conditions & Statements](#conditional-statements)
+    - [Loops](#loops)
+
 - [Learning Resources](https://linktodocumentation)
   - [Books](https://linktodocumentation)
   - [Articles](https://linktodocumentation)
@@ -12,7 +15,7 @@
 - [Libraries](https://linktodocumentation)
 - [Projects](https://linktodocumentation)
 
-<h1 id="get-started">Getting Started with Python</h1>
+<h2 id="get-started">Getting Started with Python</h2>
 
 ## What is Python?
 Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
@@ -55,3 +58,12 @@ Provides specific information for tracing errors in a program.
 - [Data Types](https://github.com/iamuendo/Python-Notes/tree/main/2.Data-Types)
 - [Data Structures](https://github.com/iamuendo/Python-Notes/tree/main/3.Data-Structures)
 - [Classes, Objects & Methods](https://github.com/iamuendo/Python-Notes/tree/main/4.Classes-Objects-Methods)
+
+<h3 id="conditional-statements">Conditions & Statements</h3>
+A conditional statement is a type of coding instruction used to compare values & expressions to make decisions on the next course of action.
+
+#### Types of conditional statements
+1. If
+2. If...Else
+3. Nested if
+4. If-elif statements

@@ -1,19 +1,33 @@
 # Python Notes
 
-- [Getting Started with Python](#get-started)
+## Table of Contents
+1. Getting Started with Python
     - [Why you should learn Python?](#why-python)
     - [Characteristics of Python](#characteristics)
     - [How to setup Python on your computer](#setup)
-    - [Building Blocks of Python](#building-blocks)
-    - [Conditions & Statements](#conditional-statements)
-    - [Loops](#loops)
 
-- [Learning Resources](https://linktodocumentation)
-  - [Books](https://linktodocumentation)
-  - [Articles](https://linktodocumentation)
-  - [Videos](https://linktodocumentation)
-- [Libraries](https://linktodocumentation)
-- [Projects](https://linktodocumentation)
+2. Building Blocks of Python
+    - [Variables, Identifiers, & Basic Function Arguments](https://github.com/iamuendo/Python-Notes/tree/main/Building-Blocks/1.variables_identifiers_and_basic-function-arguments)
+    - [Data Types](https://github.com/iamuendo/Python-Notes/tree/main/Building-Blocks/2.Data-Types)
+    - [Basic I/O & Arithmetic operations](https://github.com/iamuendo/Python-Notes/tree/main/Building-Blocks/2.Data-Types)
+    - [Loops, Conditions & Boolean Operations](https://github.com/iamuendo/Python-Notes/tree/main/Building-Blocks/2.Data-Types)
+    - [Data Structures](https://github.com/iamuendo/Python-Notes/tree/main/Building-Blocks/3.Data-Structures)
+    - [Classes, Objects & Methods](https://github.com/iamuendo/Python-Notes/tree/main/Building-Blocks/4.Classes-Objects-Methods)
+
+3. Using Python for Backend Development
+    - [Django Framework](https://linktodocumentation)
+    - [Projects](https://linktodocumentation)
+
+4. MicroPython for hardware prototypes
+    - [Working on Raspberry PI Pico W](https://linktodocumentation)
+    - [Projects](https://linktodocumentation)
+
+4. Learning Resources (Strongly recommend since I used them)
+    - [Books](https://linktodocumentation)
+    - [Web Resources](https://linktodocumentation)
+    - [Videos](https://linktodocumentation)
+
+
 
 <h2 id="get-started">Getting Started with Python</h2>
 
@@ -51,19 +65,3 @@ Provides specific information for tracing errors in a program.
 - On Windows
 - On Mac
 - On Linux
-
-<h3 id="building-blocks">Building Blocks of Python</h3>
-
-- [Variables & Identifiers](https://github.com/iamuendo/Python-Notes/tree/main/1.Variables-and-identifiers)
-- [Data Types](https://github.com/iamuendo/Python-Notes/tree/main/2.Data-Types)
-- [Data Structures](https://github.com/iamuendo/Python-Notes/tree/main/3.Data-Structures)
-- [Classes, Objects & Methods](https://github.com/iamuendo/Python-Notes/tree/main/4.Classes-Objects-Methods)
-
-<h3 id="conditional-statements">Conditions & Statements</h3>
-A conditional statement is a type of coding instruction used to compare values & expressions to make decisions on the next course of action.
-
-#### Types of conditional statements
-1. If
-2. If...Else
-3. Nested if
-4. If-elif statements
